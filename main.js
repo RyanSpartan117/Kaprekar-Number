@@ -19,7 +19,7 @@ let output = [];
 
 }
 
-function isKnum(sr, er) {//start range, end range
+function findKaprekarNumbers(sr, er) {//start range, end range
 
 	let start = sr;
 	let knumbs = []; //push all of the Kaprekar Numbers into an array
